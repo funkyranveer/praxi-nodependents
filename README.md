@@ -13,6 +13,9 @@ Funkyranveer - Removed dependencies, Joeleoli - Made praxi, lugami - he made the
 - Don't skid it
 - Don't attempt to sell this resource when it isn't updated majorly
 
+# Compiling
+> Run Maven command: ``mvn clean install`` within the project, this shound generate a /target/ folder with the compiled JAR Copy
+
 # Additional Info
 This project won't be updated as I intend to keep this fixed base for the public without crazy modifications
 
