@@ -1,5 +1,5 @@
 # Praxi Without Dependents
-> [!NOTICE]
+> [!IMPORTANT]
 > This resource works the best on 1.8.8
 
 # Credits
