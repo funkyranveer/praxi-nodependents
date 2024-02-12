@@ -1,4 +1,6 @@
 # Praxi Without Dependents
+> [!NOTICE]
+> This resource works the best on 1.8.8
 
 # Credits
 Funkyranveer - Removed dependencies, Joeleoli - Made praxi, lugami - he made the adapter class 
