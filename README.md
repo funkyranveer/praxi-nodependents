@@ -17,7 +17,8 @@ Funkyranveer - Removed dependencies, Joeleoli - Made praxi, lugami - he made the
 > Run Maven command: ``mvn clean install`` within the project, this shound generate a /target/ folder with the compiled JAR Copy
 
 # Additional Info
-This project won't be updated as I intend to keep this fixed base for the public without crazy modifications
+- This project won't be updated as I intend to keep this fixed base for the public without crazy modifications
+- Dont become iusemeteor and skid this thing and claim as your own 🙏
 
 # Updated Versions
 https://github.com/Devlrxxh/praxi | Fork of this repository.
